@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    
+}
+.btn{
+    padding: 20px;
+    margin: 3px;
+    border: 2px solid black;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.btn1{
+    padding: 16px;
+    margin: 3px;
+        border: 2px solid black;
+        border-radius: 20px;
+        cursor: pointer;
+}
+.row{
+    margin: 8px 0;
+}
+.input{
+        padding: 10px 30px;
+        border: 2px solid black;
+        font-size: 15px;
+      
+}

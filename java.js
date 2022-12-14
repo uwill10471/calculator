@@ -18,5 +18,6 @@ string =string + e.target.innerHTML;
 document.querySelector('input').value =string ;}
 
   })
+
   
 })

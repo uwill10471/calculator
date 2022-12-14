@@ -1,6 +1,7 @@
 body{
     text-align: center;
-    
+    background-color: #8458B3;
+    margin-top: 80px;
 }
 .btn{
     padding: 20px;
@@ -8,6 +9,7 @@ body{
     border: 2px solid black;
     border-radius: 20px;
     cursor: pointer;
+    background-color: #d0bdf4;
 }
 .btn1{
     padding: 16px;
@@ -15,6 +17,7 @@ body{
         border: 2px solid black;
         border-radius: 20px;
         cursor: pointer;
+        background-color: #d0bdf4;
 }
 .row{
     margin: 8px 0;
@@ -24,4 +27,7 @@ body{
         border: 2px solid black;
         font-size: 15px;
       
+}
+h1{
+    color:#eac4ec;
 }
